@@ -16,3 +16,39 @@ This is Text
 _it_
 
 _**boldIt**_
+
+
+다음과 같이 원격지에 반영하고자 할 떄는 `git pull` 을 하면 됩니다.
+
+* hello1
+    * hello11
+    * hello12
+        * hello111
+        * heelo112
+        
+1. Hello1
+2. Hello2
+3. Hello3
+    1. Hello
+        1. Hea
+        2. Hea2
+    2. Hello
+        1. Hello
+        2. Heelo
+        
+        
+> 꺽쇠는 인용. 호기심이 갖는 무서움이란 
+
+***
+Hello
+
+
+## 아래는 소스입니다!! 
+
+```java
+codeBlock
+public static void main(String[] args){
+    System.out.println("Hello");
+}
+```
+
